@@ -6,7 +6,7 @@ export default function Home() {
     <div className="Home">
       <div className="lander">
         <h1>Webbi Skools Quiz App</h1>
-        <p className="text-muted">Webbi Skools Quiz app</p>
+        <p className="text-muted">Webbi Skools Ltd</p>
       </div>
     </div>
   );
